@@ -1,0 +1,10 @@
+---
+build_packages:
+  - build-essential
+  - gcc
+  - zlib1g-dev
+  - libxml2-dev
+  - libxslt1-dev
+
+build_python_library:
+  - python3-dev
