@@ -1,4 +1,2 @@
-# role_build
-Ansible role for installing build tools
-
-
+# role_plantuml
+Ansible role for installing Java PlantUML

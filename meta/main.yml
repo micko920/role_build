@@ -1,7 +1,7 @@
 ---
 galaxy_info:
   author: Michael Green
-  description: Build tools for linux
+  description: Java PlantUML
   company: EAS
 
   # If the issue tracker for your role is not on github, uncomment the
@@ -49,3 +49,4 @@ galaxy_info:
 
   dependencies:
     - role: micko920.homelab_base_system
+    - role: micko920.role_java
